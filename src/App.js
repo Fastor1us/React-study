@@ -1,6 +1,6 @@
 import React from 'react';
-import Counter from './components/Counter'
-import ClassCounter from './components/ClassCounter'
+// import Counter from './components/Counter'
+// import ClassCounter from './components/ClassCounter'
 import './styles/App.css'
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       
-      <Counter/>
-      <ClassCounter/>
+      {/* <Counter/>
+      <ClassCounter/> */}
 
       <div className="post">
         <div className="post__content">
